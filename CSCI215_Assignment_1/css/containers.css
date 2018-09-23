@@ -1,0 +1,102 @@
+.container1 {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+    text-align: right;
+    font-family: 'Libre Baskerville', serif;
+    color: #e9e7da;
+}
+.container2 {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+
+}
+
+
+
+.navbar {
+      background-color: #373f27;
+      height: 100px;
+      text-align: center;
+      position: relative;
+      width: 100%;
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 0 20px;
+      padding-top: 25px;
+      box-sizing: border-box;
+  }
+
+section {
+    background-color: #636b46;
+    color: #e9e7da;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+    top: 50px;
+
+}
+
+
+footer {
+    width: 100%;
+    max-width: 960px;
+    position: relative;
+    background-color: #373f27;
+    color: #e9e7da;
+    text-align: center;
+    clear: both;
+    top: 10px;
+
+}
+
+.hero {
+    width: 100%;
+    max-width: 960px;
+    display: block;
+    padding: 0 20px;
+    padding-bottom: 450px;
+
+
+}
+
+.acctcontainer {
+    clear: both;
+    position: relative;
+    padding-top: 10px;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color: #636b46;
+    text-align:center;
+}
+
+
+.calccontainer {
+    clear: both;
+    position: relative;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color: #636b46;
+    text-align: center;
+}
+
+.webcontainer {
+    clear: both;
+    position: relative;
+    padding-top: 10px;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color: #636b46;
+    text-align:center;
+}
