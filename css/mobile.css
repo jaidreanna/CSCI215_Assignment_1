@@ -1,0 +1,35 @@
+
+@media (min-width: 550px) {
+
+    .header {
+        padding: 30px 0 50px 0;
+    }
+    .logo {
+        position: static;
+        background-color: transparent;
+        font-size: 2rem;
+        line-height: 1;
+    }
+    .nav .button {
+        width: auto;
+    }
+    h1 { font-size: 5rem;
+    }
+    h2 {
+        font-size: 4.2;
+    }
+}
+
+
+
+/* Larger than desktop */
+/* applies to all widths 100px and greater */
+@media (min-width: 1000px) {
+
+}
+
+/* Larger than Desktop HD */
+/* applies to 1200px and greater */
+@media (min-width: 1200px) {
+
+}
